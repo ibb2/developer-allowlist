@@ -1,1 +1,4 @@
 posthog.com
+us.posthog.com
+eu.posthog.com
+app.posthog.com
