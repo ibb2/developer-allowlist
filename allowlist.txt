@@ -1,6 +1,6 @@
-posthog.com
-us.posthog.com
-eu.posthog.com
+posthog.com^
+us.posthog.com^
+eu.posthog.com^
 us.posthog.com/login?next=/
 eu.posthog.com/login?next=/
-app.posthog.com
+app.posthog.com^
